@@ -1,4 +1,4 @@
 # Firstinstance
 First Git repo
 <br>
-Author-Shashi
+Author-Shashi Bhardwaj
